@@ -1,0 +1,20 @@
+{
+  "name": "caitlin-allie",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "author": "Caitlin Allie",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caitlinallie/caitlinallie.github.io"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-install": "^1.1.0",
+    "gulp-open": "^3.0.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.3"
+  }
+}
